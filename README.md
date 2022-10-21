@@ -1,2 +1,2 @@
 # super-duper-fiesta
-demo repo
+demo repo for experiments.
